@@ -1,0 +1,4 @@
+nano /usr/src/app/index.js
+console.log('Hello World')
+exit
+cat /usr/src/app/index.js
